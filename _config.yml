@@ -4,7 +4,7 @@ name: "Kevin"
 description: "这是中文"
 
 # url is currently only used only for the RSS feed in feed.xml
-url: http://www.javafuture.cn
+url: "http://www.javafuture.cn"
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
